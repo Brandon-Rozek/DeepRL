@@ -4,7 +4,7 @@ This is a walk through my journey of deep reinforcement learning. This will high
 
 ## Deep Q-Networks (DQN)
 
-Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller. **Playing Atari with Deep Reinforcement Learning**.
+[1] Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller. **Playing Atari with Deep Reinforcement Learning**.
 
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
@@ -14,7 +14,9 @@ My implementation: https://github.com/Brandon-Rozek/DeepRL/blob/master/PoleBalan
 
 
 
-Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas. **Dueling Network Architectures for Deep Reinforcement Learning**.
+
+
+[2] Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas. **Dueling Network Architectures for Deep Reinforcement Learning**.
 
 https://arxiv.org/abs/1511.06581
 
@@ -24,7 +26,9 @@ My implementation: https://github.com/Brandon-Rozek/DeepRL/blob/master/DuelingPo
 
 
 
-Tom Schaul, John Quan, Ioannis Antonoglou, David Silver. **Prioritized Experience Replay**.
+
+
+[3] Tom Schaul, John Quan, Ioannis Antonoglou, David Silver. **Prioritized Experience Replay**.
 
 https://arxiv.org/abs/1511.05952
 
